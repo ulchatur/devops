@@ -1,2 +1,4 @@
 This file is for git revert
 This is line 2
+
+This is a file change from feature branch
