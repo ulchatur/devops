@@ -1,2 +1,3 @@
 This is for git reset
 This is line 2 in reset file
+This is a new line added for git fetch command
