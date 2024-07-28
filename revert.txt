@@ -1,1 +1,2 @@
 This file is for git revert
+This is line 2
